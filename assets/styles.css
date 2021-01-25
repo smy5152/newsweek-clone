@@ -1,0 +1,17 @@
+.header{
+    height: 100px;
+    width: 80%;
+    background-color: #f72210;
+    color: #fff;
+}
+
+.logo-head{
+
+    color: #fff;
+}
+
+.nav-w{
+display: flex;
+justify-content: center;
+    width: 80%;
+}
