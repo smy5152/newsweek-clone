@@ -1,13 +1,17 @@
-.header {
-  height: 100px;
-  background-color: #f72210;
-  color: #fff;
-}
 
-.logo-head {
-  color: #fff;
-  fill: white;
-}
+.header-wrapper {
+    max-width: 1310px;
+    height: 100px;
+    padding: 15px 10px;
+    color: white;
+    background-color: #f72210;
+  }
+
+.logo-head{
+    color: #fff;
+    fill: white;
+    width: 400px;
+  }
 
 .header-font {
   font: bold 13px/24px "Roboto Condensed", sans-serif;
@@ -16,24 +20,26 @@
   line-height: 1.5;
 }
 
-.subscribe-btn {
+.rounded-pill {
   background-color: #ffe400;
+  height: 30px;
 }
 
-.header-wrapper {
-  display: block;
-}
 
-@media screen and (min-width: 992px) {
-  .header-wrapper {
-    display: none;
-  }
-}
 
-@media screen and (min-width: 768px) {
-  .header-wrapper {
-    display: none;
-  }
+@media screen and (max-width: 992px) {
+    .header-wrapper{
+        height: 50px;
+        color: white;
+        background-color: #f72210;
+        max-width: 1310px;
+    }
+
+    .logo-head {
+        color: #fff;
+        fill: white;
+        width: 150px;
+      }
 }
 
 /* FOOTER CSS */
