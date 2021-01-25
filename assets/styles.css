@@ -1,5 +1,4 @@
 .header-wrapper {
-  max-width: 1310px;
   height: 100px;
   padding: 15px 10px;
   color: white;
@@ -68,4 +67,9 @@
 .footer-social {
   height: 34px;
   
+}
+
+.footer-wrap a{
+
+    font-size: 13px;
 }
