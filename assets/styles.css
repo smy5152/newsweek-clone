@@ -35,3 +35,36 @@
     display: none;
   }
 }
+
+/* FOOTER CSS */
+
+.footer-links {
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.footer-links > li {
+  display: block;
+}
+
+.footer-section {
+  border-top: 1px solid #666;
+}
+
+.logo-footer {
+  color: #fff;
+  fill: #f72210;
+  width: 236px;
+  margin-right: 15px;
+  /* display: flex; */
+  justify-content: space-between;
+}
+
+.footer-copyright {
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  color: #666;
+  margin-bottom: 12px;
+  position: relative;
+}
