@@ -20,3 +20,18 @@
   background-color: #ffe400;
 }
 
+.header-wrapper {
+  display: block;
+}
+
+@media screen and (min-width: 992px) {
+  .header-wrapper {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header-wrapper {
+    display: none;
+  }
+}
