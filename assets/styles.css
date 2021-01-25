@@ -1,16 +1,22 @@
-.header{
-    height: 100px;
-    width: 80%;
-    background-color: #f72210;
-    color: #fff;
+.header {
+  height: 100px;
+  background-color: #f72210;
+  color: #fff;
 }
 
-.logo-head{
-
-    color: #fff;
+.logo-head {
+  color: #fff;
+  fill: white;
 }
 
-.w-80{
-
-    width: 80%;
+.header-font {
+  font: bold 13px/24px "Roboto Condensed", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
 }
+
+.subscribe-btn {
+  background-color: #ffe400;
+}
+
