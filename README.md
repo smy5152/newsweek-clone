@@ -43,9 +43,9 @@ Skills Revived & Learned:
 
 👤 **Andres Leon**
 
-- GitHub: [](https://github.com/)
-- Twitter: [](https://twitter.com/)
-- LinkedIn: [](https://www.linkedin.com/in//)
+- GitHub: [@notrexxx](https://github.com/notrexxx)
+- Twitter: [@emigdioleon1](https://twitter.com/emigdioleon1)
+- LinkedIn: [Emigdio Leon](https://linkedin.com/emigdio-leon-689109195)
 
 ## Show your support
 
