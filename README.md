@@ -21,7 +21,7 @@ Skills Revived & Learned:
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
 
-![screenshot](./assets/images/...)
+![screenshot](assets/images/milestone-1.png)
 
 ## Built With
 
@@ -31,7 +31,7 @@ Skills Revived & Learned:
 
 ## Live Demo
 
-[Live Demo Link](https://smy5152.github.io/...)
+[Live Demo Link](https://smy5152.github.io/newsweek-clone-wk3/)
 
 ## Authors
 
