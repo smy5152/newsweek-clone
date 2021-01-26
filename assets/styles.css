@@ -80,6 +80,14 @@ body {
   text-transform: uppercase;
 }
 
+.login-text-icon {
+  display: block;
+}
+
+.login-text-logo {
+  display: none;
+}
+
 @media screen and (max-width: 1024px) {
   .body-wrapper {
     width: 100%;
@@ -117,6 +125,14 @@ body {
   .footer-social {
     font-size: 20px;
     padding-top: 0.75rem !important;
+  }
+
+  .login-text-icon {
+    display: none;
+  }
+
+  .login-text-logo {
+    display: block;
   }
 }
 
