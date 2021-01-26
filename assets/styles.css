@@ -65,7 +65,8 @@
 }
 
 .footer-social {
-  height: 34px;
+  /* line-height: 24px; */
+  font-size: 26px;
 }
 
 .footer-wrap a {
