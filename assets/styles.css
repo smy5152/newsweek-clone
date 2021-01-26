@@ -56,12 +56,9 @@
 }
 
 .footer-links {
-  padding-right: 1rem !important;
-}
-
-.footer-links {
   font-size: 0.85rem;
   line-height: 14px;
+  padding-right: 1rem !important;
 }
 
 .footer-section {
