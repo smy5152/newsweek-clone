@@ -75,6 +75,11 @@ body {
   margin-right: 10px;
 }
 
+.free-signup-text {
+  font: bold 19px/19px "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+}
+
 @media screen and (max-width: 1024px) {
   .body-wrapper {
     width: 100%;
