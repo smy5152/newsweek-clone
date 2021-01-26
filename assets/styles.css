@@ -4,6 +4,10 @@
   background-color: #f72210;
 }
 
+.font-head a {
+    font-size: 14px;
+  }
+
 .logo-head {
   color: #fff;
   fill: white;
