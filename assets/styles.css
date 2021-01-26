@@ -1,6 +1,5 @@
 .header-wrapper {
   height: 100px;
-  padding: 15px 10px;
   color: white;
   background-color: #f72210;
 }
@@ -29,12 +28,12 @@
     color: white;
     background-color: #f72210;
     max-width: 1310px;
+    padding: 10px;
   }
 
   .logo-head {
-    color: #fff;
-    fill: white;
     width: 150px;
+    padding-top: 0 !important;
   }
 }
 
@@ -44,7 +43,6 @@
   .footer-links > li {
     border-right: none !important;
     padding-top: 0.75rem !important;
-    /* padding-right: 1rem !important; */
   }
 
   .footer-copyright {
