@@ -40,9 +40,30 @@
 
 /* FOOTER CSS */
 
+@media screen and (max-width: 768px) {
+  .footer-links > li {
+    border-right: none !important;
+    padding-top: 0.75rem !important;
+    /* padding-right: 1rem !important; */
+  }
+
+  .footer-copyright {
+    padding-top: 1rem !important;
+  }
+
+  .footer-social {
+    font-size: 20px;
+    padding-top: 0.75rem !important;
+  }
+}
+
 .footer-links {
-  font-size: 14px;
-  line-height: 15px;
+  padding-right: 1rem !important;
+}
+
+.footer-links {
+  font-size: 0.85rem;
+  line-height: 14px;
 }
 
 .footer-section {
@@ -56,16 +77,14 @@
 }
 
 .footer-copyright {
-  font-size: 12px;
+  font-size: 0.8rem;
   line-height: 12px;
   text-transform: uppercase;
   color: #666;
-  margin-top: 30px;
   float: right;
 }
 
 .footer-social {
-  /* line-height: 24px; */
   font-size: 26px;
 }
 
