@@ -1,3 +1,12 @@
+body {
+  overflow-x: hidden;
+}
+
+.body-wrapper {
+  width: 1210px;
+  margin: 0 auto;
+}
+
 .header-wrapper {
   height: 100px;
   color: white;
@@ -5,8 +14,8 @@
 }
 
 .font-head a {
-    font-size: 14px;
-  }
+  font-size: 14px;
+}
 
 .logo-head {
   color: #fff;
@@ -31,10 +40,17 @@
   width: 190px;
 }
 
-.article-body{
+.article-body {
   padding-top: 10px;
   margin-bottom: 15px;
- }
+}
+
+@media screen and (max-width: 1024px) {
+  .body-wrapper {
+    width: 100%;
+    margin: 0;
+  }
+}
 
 @media screen and (max-width: 992px) {
   .header-wrapper {
@@ -102,8 +118,8 @@
   font-size: 13px;
 }
 
-.vs-circle{
-  width:30px;
-  height:30px;
-  font-size:0.8em;
+.vs-circle {
+  width: 30px;
+  height: 30px;
+  font-size: 0.8em;
 }
