@@ -57,6 +57,24 @@ body {
   border-right: 1px solid #dee2e6 !important;
 }
 
+.newsletter-signup {
+  max-width: 300px;
+  margin: 0 auto 30px;
+  border: 1px solid #e5e5e5;
+  background-color: #f4f5f6;
+  padding: 20px;
+}
+
+.icon-signup {
+  flex: none;
+  display: block;
+  width: 29px;
+  height: 28px;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
+  margin-right: 10px;
+}
+
 @media screen and (max-width: 1024px) {
   .body-wrapper {
     width: 100%;
