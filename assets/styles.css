@@ -101,3 +101,9 @@
 .footer-wrap a {
   font-size: 13px;
 }
+
+.vs-circle{
+  width:30px;
+  height:30px;
+  font-size:0.8em;
+}
