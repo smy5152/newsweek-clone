@@ -90,8 +90,8 @@ body {
 }
 
 .subscribe-img-top {
-  z-index: 1;
-  margin-left: -90px;
+  z-index: 2;
+  margin-left: -150px;
 }
 
 .email-newsletter-img {
