@@ -118,10 +118,34 @@ body {
 .category-label > a {
   color: #f72210 !important;
 }
+
 .article-wrap {
   position: relative;
   min-height: 33px;
   margin-bottom: 10px;
+}
+
+.culture-image-wrap {
+  position: relative;
+  min-height: 33px;
+  margin-bottom: 10px;
+}
+
+.culture-image-tag {
+  font: bold 13px/20px "Roboto condensed", Arial, sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: inline-block;
+  background-color: #c2d4d7 !important;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.culture-image-tag > a {
+  text-decoration: none;
+  color: black !important;
 }
 
 @media screen and (max-width: 1024px) {
