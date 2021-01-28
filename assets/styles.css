@@ -182,9 +182,12 @@ body {
   margin-right: 7px;
 }
 
-.cat > a {
-  text-decoration: none !important;
-  color: #f72210 !important;
+.cat-a {
+  color: black !important;
+}
+
+.cat-a:hover {
+  text-decoration: underline #f72210 !important;
 }
 
 @media screen and (max-width: 1024px) {
