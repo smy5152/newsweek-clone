@@ -70,8 +70,7 @@ body {
   display: block;
   width: 29px;
   height: 28px;
-  background:
-    url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
     no-repeat #f72210;
   margin-right: 10px;
 }
@@ -102,6 +101,27 @@ body {
 
 .w-90 {
   width: 90% !important;
+}
+
+.category-label {
+  display: block;
+  font: bold 14px "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+  padding: 6px 10px 6px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.category-label > a {
+  color: #f72210 !important;
+}
+.article-wrap {
+  position: relative;
+  min-height: 33px;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 1024px) {
