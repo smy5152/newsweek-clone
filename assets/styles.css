@@ -70,11 +70,12 @@ img {
 }
 
 .btn-box {
-  margin-bottom: 1rem;
+  margin-bottom: 15px;
+  margin-right: 1rem;
 }
 
 .btn-box button {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .icon-signup {
@@ -239,6 +240,10 @@ img {
   .footer-social {
     font-size: 20px;
     padding-top: 0.75rem !important;
+  }
+
+  .btn-box {
+    margin-right: 0;
   }
 }
 
