@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: The Next Web - Clone
+# Project Name: Newsweek - Clone
 
-## Week 2 Collaborative Project
+## Week 3 Collaborative Project
 
 Beaufitul responsive and mobile first web-page design is the future. With mobile devices and multiple size and input devices dominating and growing exponentially, this is going to be the front-end revolution.
 
@@ -18,21 +18,20 @@ Skills Revived & Learned:
 > Learning Goals:
 
 - Version Control, Github Flow
-- Introduction to HTML5 & CSS3.
+- Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
-- Font, Image, Page Size manipulation with new CSS3 features.
 
-![screenshot](./assets/images/SITE-Image-readme.png)
+![screenshot](assets/images/milestone-1.png)
 
 ## Built With
 
 - Major languages: HTML5, CSS3
-- Frameworks: Github flow, Mobile First Approach
+- Frameworks: Bootstrap, Github flow, Mobile First Approach
 - Technologies used: Responsive Web Design
 
 ## Live Demo
 
-[Live Demo Link](https://smy5152.github.io/microverse-the-next-web/.)
+[Live Demo Link](https://smy5152.github.io/newsweek-clone-wk3/)
 
 ## Authors
 
@@ -42,11 +41,11 @@ Skills Revived & Learned:
 - Twitter: [@smy5152](https://twitter.com/smy5152)
 - LinkedIn: [Shabbir Yamani](https://www.linkedin.com/in/shabbirmyamani/)
 
-👤 **Carlos González**
+👤 **Andres Leon**
 
-- GitHub: [@chuckbuckethead](https://github.com/chuckbuckethead)
-- Twitter: [@aclerkofpomier](https://twitter.com/aclerkofpomier)
-- LinkedIn: [Carlos González](https://www.linkedin.com/in/chuckbuckethead/)
+- GitHub: [@notrexxx](https://github.com/notrexxx)
+- Twitter: [@emigdioleon1](https://twitter.com/emigdioleon1)
+- LinkedIn: [Emigdio Leon](https://linkedin.com/emigdio-leon-689109195)
 
 ## Show your support
 
@@ -60,4 +59,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://mit-license.org/) licensed.
+This project is [MIT](./LICENSE) licensed.
