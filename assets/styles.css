@@ -73,6 +73,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.btn-box button {
+  font-size: 12px;
+}
+
 .icon-signup {
   flex: none;
   display: block;
@@ -88,7 +92,7 @@ img {
 }
 
 .subscribe-img-top {
-  z-index: 2;
+  z-index: 1;
   margin-left: -150px;
 }
 
@@ -291,5 +295,5 @@ img {
 }
 
 .text-danger {
-  background-color: #f72310;
+  color: #f72310;
 }
