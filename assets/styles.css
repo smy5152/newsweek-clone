@@ -70,8 +70,7 @@ body {
   display: block;
   width: 29px;
   height: 28px;
-  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
-    no-repeat #f72210;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
   margin-right: 10px;
 }
 
@@ -266,9 +265,10 @@ body {
   color: #666;
 }
 
-.footer-social {
-  font-size: 26px;
+.footer-social, .footer-social a {
+  font-size: 26px !important;
   color: grey;
+  text-decoration: none !important;
 }
 
 .footer-wrap a {
