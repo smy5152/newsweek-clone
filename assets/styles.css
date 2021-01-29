@@ -69,13 +69,16 @@ img {
   padding: 20px;
 }
 
+.btn-box {
+  margin-bottom: 1rem;
+}
+
 .icon-signup {
   flex: none;
   display: block;
   width: 29px;
   height: 28px;
-  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
-    no-repeat #f72210;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
   margin-right: 10px;
 }
 
@@ -197,6 +200,10 @@ img {
     width: 100%;
     margin: 0 auto;
   }
+
+  .btn-box {
+    margin-bottom: 0;
+  }
 }
 
 @media screen and (max-width: 992px) {
@@ -280,10 +287,10 @@ img {
   z-index: 1;
 }
 
-.btn-danger{
-  background-color: #f72310
+.btn-danger {
+  background-color: #f72310;
 }
 
-.text-danger{
-  background-color: #f72310
+.text-danger {
+  background-color: #f72310;
 }
