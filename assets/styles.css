@@ -84,14 +84,6 @@ img {
   text-transform: uppercase;
 }
 
-.login-text-icon {
-  display: block;
-}
-
-.login-text-logo {
-  display: none;
-}
-
 .subscribe-img-top {
   z-index: 2;
   margin-left: -150px;
@@ -238,14 +230,6 @@ img {
     font-size: 20px;
     padding-top: 0.75rem !important;
   }
-
-  .login-text-icon {
-    display: none;
-  }
-
-  .login-text-logo {
-    display: block;
-  }
 }
 
 .foot-a {
@@ -294,4 +278,12 @@ img {
   margin-top: -14px;
   margin-bottom: -15px;
   z-index: 1;
+}
+
+.btn-danger{
+  background-color: #f72310
+}
+
+.text-danger{
+  background-color: #f72310
 }
