@@ -2,6 +2,10 @@ body {
   overflow-x: hidden;
 }
 
+img {
+  cursor: pointer;
+}
+
 .body-wrapper {
   width: 1210px;
   margin: 0 auto;
@@ -70,7 +74,8 @@ body {
   display: block;
   width: 29px;
   height: 28px;
-  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
   margin-right: 10px;
 }
 
@@ -124,6 +129,12 @@ body {
   margin-bottom: 10px;
 }
 
+.article-wrap > a {
+  text-decoration: none;
+
+  color: #f72210 !important;
+}
+
 .culture-image-wrap {
   position: relative;
   min-height: 33px;
@@ -143,7 +154,6 @@ body {
 }
 
 .culture-image-tag > a {
-  text-decoration: none;
   color: black !important;
 }
 
@@ -187,6 +197,7 @@ body {
 
 .cat-a:hover {
   text-decoration: underline #f72210 !important;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1024px) {
